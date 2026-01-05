@@ -55,15 +55,6 @@ I am a graduate student specializing in **Machine Learning and NLP** at Columbia
 
 ---
 
-### 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GAInTheHouse&show_icons=true&theme=radical&count_private=true" height="180" alt="Gautam's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GAInTheHouse&layout=compact&theme=radical" height="180" alt="Top Languages" />
-</div>
-
----
-
 ### 💼 Professional Experience
 
 - **Machine Learning Engineering Intern** @ [ArklexAI](https://arklex.ai) (Aug 2025 - Present)
